@@ -1,0 +1,4 @@
+1]  create actiontype(add , delete).
+2] create reducer (switch case) 
+3] action (define action like add or delete)
+4] UI (on button click action will dispach the type )
